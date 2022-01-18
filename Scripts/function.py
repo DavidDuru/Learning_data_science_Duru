@@ -1,0 +1,1 @@
+print("Functions for analysing covid19 data for practice datae management")
